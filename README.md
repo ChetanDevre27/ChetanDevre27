@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Python Development and ML and Data Analytics. <br> <br>🌱 I'm currently learning Backend and AI.<br><br> 📫 How to reach me: chetandevre27@gmail.com <br><br> 📈 My Approach:<br> I thrive in collaborative environments, contributing to projects that drive innovation and deliver impact.<br>  Feel free to explore my projects and connect with me!..
+🔭I'm currently working on Python Development and ML and Data Analytics. <br> <br>🌱 I'm currently as a Software Developer.<br><br> 📫 How to reach me: chetandevre27@gmail.com <br><br> 📈 My Approach:<br> I thrive in collaborative environments, contributing to projects that drive innovation and deliver impact.<br>  Feel free to explore my projects and connect with me!..
 
 
 ## 🌐 Socials:
